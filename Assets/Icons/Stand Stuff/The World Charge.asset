@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee9914ead46dc864da2a7f13153eda7d, type: 3}
+  m_Name: The World Charge
+  m_EditorClassIdentifier: 
+  image: {fileID: 2100000, guid: 92400c8cb87965844be0b0cecb60f220, type: 2}
+  follow: {fileID: 0}
+  offset: {x: 0, y: 0, z: 0}
+  menu: 0
+  changingTurn: 0
+  underwater: 1
+  aiming: 0
+  swinging: 1
+  flying: 1
+  winning: 0
+  touring: 0
+  driver: 1
+  wedge: 1
+  putter: 1
+  theWorld: 0
+  preZacPull: 0
+  postZacPull: 0
+  zacPlacing: 0
+  reverbing: 0
+  isActive: 1
