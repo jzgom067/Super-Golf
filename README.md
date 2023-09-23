@@ -1,6 +1,8 @@
 # Super Golf
 A golf game made in Unity.
 
+(Download the playable game from https://jzgombic.itch.io/golf)
+
 \[1-4 players, local multiplayer, 30-60 minutes play time\]
 
 Drive, iron, chip, and putt your way through a tropical island world, with a few extra tools at your disposal:
