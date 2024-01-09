@@ -26,3 +26,5 @@ Featuring 5 _hand-picked royalty free music tracks_ to accompany your golfing ad
 **Created by Jack Zgombic**
 
 Playtesters/Rubber Ducks: Cole Ritchie, Kaanan Datt, Justin Polanski, Casey Meng, Chris Kim
+
+*When opening the project in Unity, some assets might require Blender to be installed for importing.*
